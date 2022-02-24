@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A necessary warning to the ministerie of the Kirk of Scotland from the meeting of the Commissioners of the Generall Assembly at Edinburgh, 4 Jan., 1643.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52743</idno>
+            <idno type="STC">Wing N369</idno>
+            <idno type="STC">ESTC R8930</idno>
+            <idno type="EEBO-CITATION">12994661</idno>
+            <idno type="OCLC">ocm 12994661</idno>
+            <idno type="VID">96387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A necessary warning to the ministerie of the Kirk of Scotland from the meeting of the Commissioners of the Generall Assembly at Edinburgh, 4 Jan., 1643.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>"A solemne fast and humiliation appointed by the Commissioners of the General Assembly": p. 11-13.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96387:1" rendition="simple:additions"/>
+            <p>A NECESSARY WARNING TO THE MINISTERIE OF THE KIRK OF SCOTLAND, From the meeting of the <hi>Commiſsioners</hi> Of the Generall <hi>Aſſembly</hi> At <hi>Edinburgh</hi> 4. Jan. 1643.</p>
+            <q>Alſo of your own ſelves ſhall men ariſe, ſpeaking perverſe things, to draw away diſciples after them: therefore watch, &amp;c. <bibl>
+                  <hi>Acts 20.30.31.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt excellent Majeſtie. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96387:2"/>
+            <pb n="1" facs="tcp:96387:2"/>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">I</seg>T ſhould be unto us no ſmall matter of grief, that the Lord having done ſo great things for us, and by his marvellous and mercifull providence, having according to our deſires ſetled the truth of Reli<g ref="char:EOLhyphen"/>gion, with Peace and Libertie with<g ref="char:EOLhyphen"/>in this Kingdome, while other Kirks and Kingdomes about us are in ſo great trouble, The Work of GOD ſhould be ſo little regarded, and the ſpirit of Errour and Hereſie, of Schiſme and Diviſion, and of Atheiſme and Profanity, ſhould appear again, and be hearkened unto by any amongſt us: yet ſhould wee think it to be no ſtrange or new thing, that Satan rage to be caſt out of his Kingdome, that Hereſies, Sects and Pro<g ref="char:EOLhyphen"/>fanity, which muſt be, and have ever leſſe or more infeſted the Kirk of Chriſt, ſhew themſelves, and ſet up their heads amongſt us in this ſpring-time of Reformation, eſpecially they being fomented by that influence which the preſent troubles of our neighbouring Kirks and Kingdomes have upon this Kirk and Kingdome.</p>
+               <p>It is time for all the People of God, and after a ſpeciall manner for us who are the Miniſters of the Goſpel, ſeri<g ref="char:EOLhyphen"/>ouſly to ſet our ſelves to the performance of the dutie re<g ref="char:EOLhyphen"/>quired of us, and in all vigilancie and faithfulneſſe to uſe the beſt meanes for preſerving the rich Treaſure commit<g ref="char:EOLhyphen"/>ted to us, for tranſmitting it without mixture, ſchiſme, or pollution to the poſteritie, and ſo far as in us lyeth, to pro<g ref="char:EOLhyphen"/>pagate the ſame to other Nations, which the Supreme providence is preparing and making meet to receive ſo great an happineſſe.</p>
+               <p>
+                  <pb n="2" facs="tcp:96387:3"/>Firſt of all we have to take heed to our ſelves, that our hearts be right and ſincere in the ſight of God, and that none of us be in the gall of bitterneſſe, or in the bond of iniquitie, againſt the Work of Reformation, or againſt any Article of that Covenant, which we have before God and the world ſo ſolemnly ſworn and ſubſcribed: for if our own conſcience condemne us, we will deale but treache<g ref="char:EOLhyphen"/>rouſly with the adverſary in the cauſe of God.</p>
+               <p>Secondly, we are to look to the enemies of Religion, which are of three ſorts: Papiſts, Separatiſts, and malig<g ref="char:EOLhyphen"/>nant, male-content, and profane Time-ſervers.</p>
+               <p>Concerning Papiſts: as we are encouraged by the Ci<g ref="char:EOLhyphen"/>vill power and authoritie, which will ſee the Lawes execu<g ref="char:EOLhyphen"/>ted againſt them, when it cometh to their part, ſo have we a particular and full direction in the late and former Gene<g ref="char:EOLhyphen"/>rall Aſſemblies, for our proceeding againſt them, and muſt be anſwerable for our diligence to the next Generall Aſ<g ref="char:EOLhyphen"/>ſembly; and therefore our care muſt be to follow forth the Acts of the Aſſemblies in all points: But with an in<g ref="char:EOLhyphen"/>tention, not ſo much to be rid of their perſons for our eaſe, as to deliver them from their errour for their own ſalvati<g ref="char:EOLhyphen"/>on, which is a Work requiring great wiſedome, zeal and diligence on our part. And ſo much the more, that they are univerſally kn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn by their ſpeeches, carriage, and hopes, grounded upon the confuſion and diſtemper of the times, to be more inſolent and preſumptuous then before.</p>
+               <p>Concerning Separatiſts upon the other hand: there be but very few in the Land who profeſſe themſelves to be of that ſort, and therefore the evil requireth rather a preven<g ref="char:EOLhyphen"/>tion then a cure. For this end theſe directions may ſerve:</p>
+               <p>Firſt, that every Miniſter take ſuch heed to himſelf, and his own Family, both in private worſhip, and practice of Religion, that his Family may be a paterne to all the Fa<g ref="char:EOLhyphen"/>milies of the Flock, and his own life and converſation a
+<pb n="3" facs="tcp:96387:3"/>viſible example, and reall proof of his doctrine: So ſhall the people know by the eye, how and after what manner to practiſe that which they hear; they ſhall eſteeme reve<g ref="char:EOLhyphen"/>rently of his judgement, and ſhall not be eaſily drawne from him, and from the Flock which is fed by ſuch a Paſtour.</p>
+               <p>That by our doctrine in publick, and by our conference in private, we labour to bring the people to the ſenſe of ſo great a mercy as God hath ſhowne to this Land, in ſetting up our Reformation again: This will be a mean to keep them from Poperie in ſubſtance and ceremonie, and from the love of all, whether novation or ſeparation.</p>
+               <p>That we be diligent in catechiſing, and frequent in viſi<g ref="char:EOLhyphen"/>ting particular Families, for diſcharging the duties of our Paſtorall Function, and eſpecially for ſetting up the wor<g ref="char:EOLhyphen"/>ſhip of God in every Family, and enquiring how and by whom it is performed: for the ignorant are eaſily drawn away by Sectaries and Seducers, the profane that live without the worſhip of God, are alike diſpoſed to all Reli<g ref="char:EOLhyphen"/>gions; and ſuch as are in the generall piouſly affected, and have not the worſhip of God, in the Families wherein they live, doe ſeek after it where they may have it, and are ready rather then to want it altogether, to ſuffer them<g ref="char:EOLhyphen"/>ſelves to be drawn away into errour.</p>
+               <p>That ſuch as are rude and ignorant of the Principles of Religion, and ſuch as are notoriouſly profane and ſcanda<g ref="char:EOLhyphen"/>lous in life, be ſuſpended from the Communion; but ſo, as all diligence be uſed to informe the one ſort, and reforme the other, which ſhall be a meane both to ſave their ſouls, and to remove one principall pretext of Separation.</p>
+               <p>That when we heare there is danger of Poperie or Se<g ref="char:EOLhyphen"/>paration, the abſurdities of the one and the other, which are many and groſſe, be frequently and plainly repreſented to the People, that they may be brought to the deteſtation
+<pb n="4" facs="tcp:96387:4"/>thereof, and to the Love of the truth, and to ſtedfaſtneſſe in the Reformed Religion.</p>
+               <p>That when we ſpeake againſt the ignorance and profa<g ref="char:EOLhyphen"/>nitie of many of our common Profeſſors, we take heed that we give not occaſion to any to abſtain from commu<g ref="char:EOLhyphen"/>nicating with them in the externall meanes, and to run a<g ref="char:EOLhyphen"/>way in the way of ſchiſme and ſeparation: And when we ſpeak againſt Separatiſts, that we give no occaſion to the profane, to mock at the power and practice of Religion, or at ſeparation from the bad cuſtomes of the world, and the ſinnes of the time. And therefore a clear diſtinction would be made betwixt the Spirit of God, and private ſpirits; betwixt Sanctification, and this ſeparation; be<g ref="char:EOLhyphen"/>twixt a Spirituall, and a ſchiſmaticall diſpoſition; betwixt ſeparatiſts, and ſuch as of late were called Preciſians, and Puritans, who indeed were no other but the Godly, long<g ref="char:EOLhyphen"/>ing after, and now reſting in the Reformation of Religion; betwixt Families worſhipping God, and ſecret congrega<g ref="char:EOLhyphen"/>tions or conventicles; and betwixt the neceſſary duetie of the Maſter of a Family, and promiſcuous propheſying or interpreting of Scripture. When a word is ſpoken a<g ref="char:EOLhyphen"/>gainſt ſchiſme or ſeparation, a word alſo would be ſpo<g ref="char:EOLhyphen"/>ken for preventing the miſ-application of the profane, of the worldling, and of the carnall profeſſour.</p>
+               <p>That as we have been, and have reaſon ſtill to be zea<g ref="char:EOLhyphen"/>lous againſt all the ſeeds of Popiſh ſuperſtition, and here<g ref="char:EOLhyphen"/>ſie, ſo muſt we often give warning to all the Godly, to be<g ref="char:EOLhyphen"/>ware of the ſmalleſt beginnings, and leaſt degrees of ſepa<g ref="char:EOLhyphen"/>ration, and of countenancing of ſuch as under the colour, whether of ſingular zeal and holineſſe, or of the gifts of Illumination, or of Prayer, or preſence of the Spirit, go a<g ref="char:EOLhyphen"/>bout as idle and buſie-bodies, ſpeaking evil of that which they know not, and againſt all Chriſtian Pietie and Cha<g ref="char:EOLhyphen"/>ritie, ſeeking to diſgrace the Work of Reformation, and
+<pb n="5" facs="tcp:96387:4"/>the Teachers and Profeſſours of the true Religion; re<g ref="char:EOLhyphen"/>membring that Sathan can transforme himſelfe into an Angel of light: As alſo to take heed to ſuch as bewray their inclination that way, by abſenting themſelves from the Communion, by bringing home, or ſpreading of Books and Pamphlets which preſſe ſeparation, and ſuch other meanes; And for this effect recommends to Preſ<g ref="char:EOLhyphen"/>byteries the obſervation of the Acts of Generall Aſſem<g ref="char:EOLhyphen"/>blies thereanent.</p>
+               <p>Concerning the third ſort of Enemies, the malignants, whether they be ſuch as from the beginning did oppoſe the work of Reformation of Religion in this Land, or ſuch as ſhew themſelves, upon what ſoever pretence, back<g ref="char:EOLhyphen"/>ward and diſaffected to the Reformation of Religion in England, ſo much endeavoured by this Kirk from our zeal to the glory of Chriſt, our deſire of the happineſſe of the neighbouring kingdoms, our fears of apparent dan<g ref="char:EOLhyphen"/>ger to the Religion here, if they be not made one with us in unitie of Religion and uniformitie of Kirk-Govern<g ref="char:EOLhyphen"/>ment, and our hopes, by the bleſſing of God, to have a paterne from the word ſet up in this Iland for the ex<g ref="char:EOLhyphen"/>ſample of other Kirks abroad; Becauſe Enemies of this kind may prove moſt dangerous, if they be not diſcovered and avoided, it is at this time a chief part of our dutie to make ſuch malignants known to the people, that they be not deceived and drawn away from their own ſtedfaſt<g ref="char:EOLhyphen"/>neſſe, and from the love of Chriſt, and their brethren: But in doing this dutie, we have great need of wiſedome, and the ſpirit of diſcerning, that we neither take our Friends to be our Enemies, and by that miſtake diſcourage the well affected, and multiply Enemies againſt our ſelves, nor ſuch as are indeed Enemies to be our Friends, and thereby wrong the cauſe of God, and weaken our ſelves in ſeeking after Reformation. And therefore they muſt
+<pb n="6" facs="tcp:96387:5"/>not be taken for Enemies who hope the beſt of the Kings Majeſtie, and profeſſe that they love His Honour (which is the calumnie of the malignant againſt the ſeekers of Re<g ref="char:EOLhyphen"/>formation) nor ſuch as in the beginning through want of perſwaſion were not ſo forward for Reformation, nor ſuch as in debate of matters doe poſſibly differ in their judgement from others about ſome circumſtances and midſes which may lead to the deſired end of unitie in Re<g ref="char:EOLhyphen"/>ligion; providing their converſation be ſuch as beſeemeth the goſpel of Chriſt, and for the ſubſtance and reality of their Speeches and Actions in private and publick, they be known to contribute their beſt endeavours for Reformation.</p>
+               <p>Upon the other part ſuch as be Enemies indeed may be known: Firſt by their malicious cenſuring and calumnia<g ref="char:EOLhyphen"/>ting of the Civill and Eccleſiaſticall meetings of this Kirk and Kingdome which are held for conſerving of peace be<g ref="char:EOLhyphen"/>twixt the Kingdomes, and for endeavouring by all good means the unity of Religion, as if they tended to the diminution of the King His Greatneſſe and Authority in England: Secondly, by their deſpiſing or miſ-regarding of the publick reſolutions agreed upon for ſo good ends: Thirdly, by their notable injuring the Kings Majeſtie in His Honour, in attributing to His Majeſtie whatſoever is plotted by bad Counſellours, or acted by the Popiſh and Prelaticall partie, as if there were not a difference be<g ref="char:EOLhyphen"/>twixt the King and them, or betwixt the King His Au<g ref="char:EOLhyphen"/>thority and the pretence and abuſe thereof: Fourthly, by ſlandering and traducing all ſuch as labour to promove the Reformation in England, not ſparing them who are in places of government, and whom God hath honoured to be worthy inſtruments in our own Reformation, as if they were Enemies to the Kings Honour, and were ſerving their own private ends without reſpect to the publick:
+<pb n="7" facs="tcp:96387:5"/>Fifthly, by their going about &amp; endeavouring to make the hearts and hands of others to faint in the work of Refor<g ref="char:EOLhyphen"/>mation; and if it were poſſible, to make them as malig<g ref="char:EOLhyphen"/>nant and diſaffected as themſelves: Sixthly, by labouring to bring the Parliament of England in ſuſpition, as if they intended to caſt off the yoke of Royall Authoritie, or in<g ref="char:EOLhyphen"/>tended not the Reformation of Religion, and Unitie with this Kirk: Seventhly, by their inſolencie and boaſting when they hear of the ſucceſſe of the Popiſh and Prelati<g ref="char:EOLhyphen"/>call partie, and their readineſſe to aſſiſt them according to their power, whereby they bewray their feare of the Reformation of Religion, and their hopes to ſee the day when they ſhall be avenged upon ſuch as they ma<g ref="char:EOLhyphen"/>ligne at home. When they are known by theſe and the like practices, we ought to warne the People to beware of their company, counſells and ſeducements: And be<g ref="char:EOLhyphen"/>cauſe ſuch malignants ſhroud themſelves under the falſe pretence of loyaltie to the Kings Majeſtie, without re<g ref="char:EOLhyphen"/>ſpect to Religion, or the good of the publick; we ought in all our ſpeeches and prayers to teſtifie our faithfulneſſe, and high reſpects to the Kings Majeſtie, and alſo to preſſe and pray for the unitie of Religion, and for proſpering all the good wayes that may conduce for ſo bleſſed a work, as ſerving for the honour of GOD, and for the King His greatneſſe, and the true peace of His Kingdomes, de<g ref="char:EOLhyphen"/>claring all ſuch as oppoſe the unitie of Religion to be ene<g ref="char:EOLhyphen"/>mies to God, to the King, and to the peace and proſperity of the Kingdomes.</p>
+               <p>Next, ſince it is incumbent to us by our calling, and committed to us by the Generall Aſſembly, according to our callings, to uſe all Lawfull and Eccleſiaſticall wayes for furtherance of Reformation and Unity of Religion, for continuance of our own peace at home, &amp; of the common peace betwixt the Kingdomes, A neceſſity is laid upon us:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> Firſt, to give warning to the people of the danger of
+<pb n="8" facs="tcp:96387:6"/>the Proteſtant Religion through the Popiſh Armies in England and Ireland, pretending that they are better and more dutifull Subjects then the Proteſtants, but intending no leſſe then the ruine of the reformed Religion, and the planting of that Hereſie, Idolatry and Tyrannie, in a more compendious way then could have been done by the late Service-Book, and Book of Canons. In which courſe if they ſhall by their power prevail, it will be im<g ref="char:EOLhyphen"/>poſſible for the Kings Majeſtie to ſuppreſſe Poperie, and maintaine the true Religion conforme to the many pro<g ref="char:EOLhyphen"/>miſes contained in His Majeſties Declarations; they will ſoone caſt off their profeſſed allegeance and ſubjection; and it will be no eaſie matter for this Kirk and King<g ref="char:EOLhyphen"/>dome, whence they conceive all their troubles and diſap<g ref="char:EOLhyphen"/>pointments have iſſued, to reſiſt their violence, eſpecially conſidering what a diſaffected and diſcontented party we have at home in our own boſome.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, ſince unitie in the truth hath been our ſtrength ſince the beginning, we ought by all good means in publick and private, to prevent and remove all diviſive motions which by malicious &amp; crafty ſycophants are endeavoured, by ſpreading of calumnies and ſlanders againſt the preſent government, and putting aſperſions on ſuch, whether of the Nobilitie, Gentry, Burrowes or Miniſterie, as the Lord hath honoured to be faithfull and happy Inſtru<g ref="char:EOLhyphen"/>ments in his work from the beginning, have endured the heat of the day, and reſolve to be conſtant unto the end.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> Thirdly, that ſince by the providence of God the two Kingdoms are of late ſo ſtrongly united, &amp; there be hopes of a more ſtrong union by unity of Religion, it is our dutie to labour to remove and prevent all occaſions of jealou<g ref="char:EOLhyphen"/>ſies and ſuſpitions betwixt the Kingdomes, and to do or ſay nothing that may breed miſ-underſtandings, break off correſpondence, weaken the confidence, or infringe the U<g ref="char:EOLhyphen"/>nion and Peace betwixt the two Kingdomes ſo happily
+<pb n="9" facs="tcp:96387:6"/>eſtabliſhed in His Majeſties preſence, and with his Royall conſent in both Parliaments.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Fourthly, becauſe when we ſpeak for the Kings honour, &amp; for obedience to civil authority in all things lawfull, our ſpeeches are wreſted by perverſe men to their corrupt ends, as if we loved not the Reformation of Religion; and when in preaching and prayer we teſtifie our zeal to the Refor<g ref="char:EOLhyphen"/>mation of Religion in England and Ireland, we are tradu<g ref="char:EOLhyphen"/>ced as Enemies to the King, &amp; to Royall authoritie, which may make a great miſtaking, and work dangerous effects a<g ref="char:EOLhyphen"/>mongſt the people who love both Reformation of Religi<g ref="char:EOLhyphen"/>on and the Kings Honour: Therefore in this difficultie we ought to ſhew in our doctrine, That there is no repugnan<g ref="char:EOLhyphen"/>cy betwixt the Kings Authority &amp; the Reformation of Re<g ref="char:EOLhyphen"/>ligion, That nothing can ſerve ſo much for His Majeſties glory, and the greatnes of His Kingdoms, as doth the Re<g ref="char:EOLhyphen"/>formation of Religion in all his dominions, And that ſuch as are oppoſite to the Reformation of Religion are grea<g ref="char:EOLhyphen"/>teſt Enemies to the Kings Honour, whatſoever they pro<g ref="char:EOLhyphen"/>feſſe or ſwear to the contrary; And alſo to explain the dif<g ref="char:EOLhyphen"/>ference betwixt the Kings power and juſt authoritie, and the pretending and abuſing thereof by ſuch men for their own private ends; And to ſhew that oppoſition to ſuch men and their wayes, is a true teſtimony of faithfulneſſe and loyalty to the King.</p>
+               <p>That the Presbytery be carefull to diſcerne and try theſe malignants, and to reclaime or cenſure them, according to the Acts of the Aſſembly, and to make report of their diligence to the next Aſſembly.</p>
+               <p>And becauſe while the Commiſſioners of the Aſſem<g ref="char:EOLhyphen"/>bly are guarding themſelves againſt the oppoſition of theſe Enemies, they are ſecretly and covertly oppoſed by a malignant Petition, croſſing an humble Petition of theirs, preſented to the Lords and others Commiſſioners for conſerving of Peace; againſt which, as deſtructive of all
+<pb n="10" facs="tcp:96387:7"/>that they had been building up, they were conſtrained to emit their Declaration, which is ſent alſo with this War<g ref="char:EOLhyphen"/>ning, to all the Miniſterie in the Land: it is neceſſary that the foreſaid Declaration be diligently peruſed by the Mi<g ref="char:EOLhyphen"/>niſters, and by them made knowne and publiſhed to all the people, that they be not deceived and drawn away from their ſtedfaſtneſſe, by the cunning and craft of the ſecret and ſubtle Enemies of our Nationall Covenant, up<g ref="char:EOLhyphen"/>on any pretence whatſoever: And if any ſhall be found to deale for ſubſcribing the Croſſe Petition, and thereby to work diviſion in the Miniſtery, or among the People; or if any of the Miniſtery, (which God forbid) ſhall be found to favour, countenance, or ſpeak in defence thereof, or be remiſſe in publiſhing the Declaration, in that caſe the Presbyterie to proceede againſt them as diſ-covenan<g ref="char:EOLhyphen"/>ters, and enemies to the peace of the Kirk and Kingdome, and to the intended unity of Religion, whatſoever their profeſſed intentions, and ſpecious pretexts be to the con<g ref="char:EOLhyphen"/>trary, as they will be anſwerable to the next Generall Aſ<g ref="char:EOLhyphen"/>ſembly: to which both we for our directions, and they for their diligence muſt render a reckoning.</p>
+               <p>In end, becauſe much every way doth depend upon us of the Miniſterie, we have need to ſtirre up our ſelves to faithfulneſſe in every paſtorall dutie, and to keep our ſelves and the People in truth and unity. Which by the bleſſing of God will be a powerfull mean to preſerve our Religi<g ref="char:EOLhyphen"/>on, and to propagate the ſame to other Kirks, groaning under their ſeverall burdens, and panting for ſuch a Refor<g ref="char:EOLhyphen"/>mation as the Lord in mercy hath granted unto us.</p>
+               <p>
+                  <hi>The Commiſsioners of the Generall Aſſembly upon mature deliberation judge it neceſſary, that this Warning be pub<g ref="char:EOLhyphen"/>lickly read in all the Pariſh Kirks, that ſecret enemies may be diſcovered, and that none of the people pretend ig<g ref="char:EOLhyphen"/>norance in joyning leſſe or more, with any of the ſaid three ſorts of enemies.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:96387:7"/>
+               <head>A SOLEMNE FAST AND HUMILIATION Appointed by the Commiſsioners of the Generall Aſſembly, to be kept through the whole Kingdome, upon the laſt Sab<g ref="char:EOLhyphen"/>bath of <hi>February,</hi> and the next Thurſday thereafter.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas by the late Generall Aſſembly, power is committed to us to conſider and perform what wee finde neceſſary by all lawfull and Eccleſiaſtick wayes, for furtherance of the Union in Religion, and Unity in Kirk-government, for continuance of our own Peace at home, and of the common Peace betwixt the Kingdomes: We finde it neceſſary, that there ſhall be a Solemne Faſt and Humiliation kept in all the Kirks of this Kingdome, on the laſt Sabbath of <hi>February,</hi> and the Thurſday next there<g ref="char:EOLhyphen"/>after, for the cauſes and motives following.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> Although within theſe few years we renewed the Co<g ref="char:EOLhyphen"/>venant, and vowed ſolemnly to ſtand to the former Reformation of Religion, and to reforme our ſelves and Families, we have notwithſtanding fallen from the zeal and fervencie of our Profeſſion at that time; Perſons
+<pb n="12" facs="tcp:96387:8"/>of all ranks and callings are grown luke-warme, and are content with a meere formalitie, and ſhew of Godlineſſe, without the inward power; yea, the moſt part are pro<g ref="char:EOLhyphen"/>fane; ſo that Blaſphemie, Profanation of the Sabbath, For<g ref="char:EOLhyphen"/>nication, Adultery, Drunkenneſſe, and other vices abound aſmuch as before in the time of corruption<g ref="char:punc">▪</g> Family wor<g ref="char:EOLhyphen"/>ſhip, mutuall edification, and ſtirring up one of another by information, admonition, conſolation, rebuke much neg<g ref="char:EOLhyphen"/>lected, and Miniſters negligent in urging the ſame. All which are ſo much the more hainous, becauſe of our un<g ref="char:EOLhyphen"/>thankfulneſſe after ſo great mercies, and breach of Cove<g ref="char:EOLhyphen"/>nant.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> The danger of this Kirk and Kingdome, ariſing partly from within, by the inſolencie of Papiſts in theſe trouble<g ref="char:EOLhyphen"/>ſome times, the diviſive motions of the malignant party, and creeping in of the errours of ſeparation; and partly from without, from the Popiſh Armies and Prelaticall party in England and Ireland, which aime undoubtedly at the diſturbance of our Peace, and over-throw of the Work of Reformation. The conſideration whereof ſhould move us to pray to God to direct us in all lawfull meanes which may ſerve for unitie among our ſelves, that we may be the more ſtrengthened againſt the common ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> In reſpect of the fellow-feeling which we ought to have with the members of Chriſts body far and near, we have cauſe to lament the long laſting troubles of the Kirks of God abroad in Germany, and elſewhere, and ſpecially the preſent combuſtions in England, and almoſt utter de<g ref="char:EOLhyphen"/>ſolation in Ireland.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> That the Lord may bleſſe all lawfull meanes to be uſed for preſerving the Union and Peace betwixt the two Kingdomes, and procuring the unity of Religion, and uni<g ref="char:EOLhyphen"/>formity of worſhip and Kirk-government within His
+<pb n="13" facs="tcp:96387:8"/>Majeſties Dominions; eſpecially that God would grant a good ſucceſſe to the treaty and travels of the Commiſſio<g ref="char:EOLhyphen"/>ners for the conſervation of Peace, and a gracious accep<g ref="char:EOLhyphen"/>tance to the Supplications unto His Majeſty from the Lords of Councell, and the Commiſſioners both of Par<g ref="char:EOLhyphen"/>liament, and of the Generall Aſſembly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> Becauſe the unhappy diviſion betwixt the King and the Parliament of England is a great impediment to the work of Reformation, and to the ſetling of a firme Peace in His Majeſties Dominions, it is our dutie to recommend ear<g ref="char:EOLhyphen"/>neſtly to the Lord, that the differences may be compoſed in ſuch a way as may moſt conduce to advance the ſo much wiſhed for Unity of Religion, and uniformitie of worſhip and Kirk-government.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VI"/> Finally, that the Lord would diſcover and diſappoint all the conſpiracies, counſells, and machinations, which tend to the execution of the bloudie decrees of Trent, the fountain whence hath iſſued all the troubles and perſecu<g ref="char:EOLhyphen"/>tions to the Reformed Kirks, and quickly deſtroy the man of Sinne.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
